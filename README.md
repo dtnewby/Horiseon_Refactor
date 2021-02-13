@@ -7,4 +7,4 @@ The objective of this assignment was to refactor an existing HTML page and its a
 01-html-css-git-homework-demo.png
 
 # Link to Deployed Application
-[Link to Horiseon Refactor Assignment] (https://dtnewby.github.io/Horiseon_Refactor/)
+[Link to Horiseon Refactor Assignment] (https://dtnewby.github.io/Horiseon_Refactor/Develop/index.html)
